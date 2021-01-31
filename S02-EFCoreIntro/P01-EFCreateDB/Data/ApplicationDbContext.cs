@@ -17,6 +17,7 @@
             {
                 optionsBuilder.UseSqlServer(ConnectionString);
             }
+            optionsBuilder.UseLazyLoadingProxies();
         }
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Разработка на софтуер - модул 7\S02-EFCoreIntro\P02-StudentsServices\bin\Debug\netstandard2.0\P02-StudentsServices.deps.json
+C:\Users\User\Desktop\Разработка на софтуер - модул 7\S02-EFCoreIntro\P02-StudentsServices\bin\Debug\netstandard2.0\P02-StudentsServices.dll
+C:\Users\User\Desktop\Разработка на софтуер - модул 7\S02-EFCoreIntro\P02-StudentsServices\bin\Debug\netstandard2.0\P02-StudentsServices.pdb
+C:\Users\User\Desktop\Разработка на софтуер - модул 7\S02-EFCoreIntro\P02-StudentsServices\bin\Debug\netstandard2.0\P02-StudentsAppData.dll
+C:\Users\User\Desktop\Разработка на софтуер - модул 7\S02-EFCoreIntro\P02-StudentsServices\bin\Debug\netstandard2.0\P02-StudentsAppData.pdb
+C:\Users\User\Desktop\Разработка на софтуер - модул 7\S02-EFCoreIntro\P02-StudentsServices\obj\Debug\netstandard2.0\P02-StudentsServices.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Разработка на софтуер - модул 7\S02-EFCoreIntro\P02-StudentsServices\obj\Debug\netstandard2.0\P02-StudentsServices.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Разработка на софтуер - модул 7\S02-EFCoreIntro\P02-StudentsServices\obj\Debug\netstandard2.0\P02-StudentsServices.AssemblyInfo.cs
+C:\Users\User\Desktop\Разработка на софтуер - модул 7\S02-EFCoreIntro\P02-StudentsServices\obj\Debug\netstandard2.0\P02-StudentsServices.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Разработка на софтуер - модул 7\S02-EFCoreIntro\P02-StudentsServices\obj\Debug\netstandard2.0\P02-StudentsServices.csproj.CopyComplete
+C:\Users\User\Desktop\Разработка на софтуер - модул 7\S02-EFCoreIntro\P02-StudentsServices\obj\Debug\netstandard2.0\P02-StudentsServices.dll
+C:\Users\User\Desktop\Разработка на софтуер - модул 7\S02-EFCoreIntro\P02-StudentsServices\obj\Debug\netstandard2.0\P02-StudentsServices.pdb

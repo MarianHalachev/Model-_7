@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Разработка на софтуер - модул 7\S02-EFCoreIntro\P02-StudentsAppData\bin\Debug\netstandard2.0\P02-StudentsAppData.deps.json
+C:\Users\User\Desktop\Разработка на софтуер - модул 7\S02-EFCoreIntro\P02-StudentsAppData\bin\Debug\netstandard2.0\P02-StudentsAppData.dll
+C:\Users\User\Desktop\Разработка на софтуер - модул 7\S02-EFCoreIntro\P02-StudentsAppData\bin\Debug\netstandard2.0\P02-StudentsAppData.pdb
+C:\Users\User\Desktop\Разработка на софтуер - модул 7\S02-EFCoreIntro\P02-StudentsAppData\obj\Debug\netstandard2.0\P02-StudentsAppData.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Разработка на софтуер - модул 7\S02-EFCoreIntro\P02-StudentsAppData\obj\Debug\netstandard2.0\P02-StudentsAppData.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Разработка на софтуер - модул 7\S02-EFCoreIntro\P02-StudentsAppData\obj\Debug\netstandard2.0\P02-StudentsAppData.AssemblyInfo.cs
+C:\Users\User\Desktop\Разработка на софтуер - модул 7\S02-EFCoreIntro\P02-StudentsAppData\obj\Debug\netstandard2.0\P02-StudentsAppData.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Разработка на софтуер - модул 7\S02-EFCoreIntro\P02-StudentsAppData\obj\Debug\netstandard2.0\P02-StudentsAppData.dll
+C:\Users\User\Desktop\Разработка на софтуер - модул 7\S02-EFCoreIntro\P02-StudentsAppData\obj\Debug\netstandard2.0\P02-StudentsAppData.pdb
