@@ -4,7 +4,8 @@ using System.Text;
 
 namespace OneToManyRelationships.Data
 {
-    class ApplicationDbContext
+    public class ApplicationDbContext
     {
+
     }
 }
